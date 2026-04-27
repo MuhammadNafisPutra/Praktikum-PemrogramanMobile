@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SahamApp</string>
+    <string name="first_time_msg">Selamat datang! Ini pertama kalinya aplikasi dibuka.</string>
+
+    <string name="btn_web">Lihat Web</string>
+    <string name="btn_detail">Detail</string>
+
+    <string name="label_year">Est. </string>
+    <string name="label_profil">Profil: </string>
+
+    <string name="stock_bbca">BBCA</string>
+    <string name="year_bbca">1957</string>
+    <string name="desc_bbca">PT Bank Central Asia Tbk (BBCA) adalah bank swasta terbesar di Indonesia yang didirikan pada tahun 1957. Bank ini dikenal dengan fundamental keuangannya yang sangat kuat dan posisinya sebagai pemimpin dalam layanan perbankan transaksional. Ekosistem digital BCA yang mumpuni, seperti BCA Mobile, KlikBCA, dan myBCA, melayani jutaan transaksi nasabah setiap harinya. BBCA memiliki kapitalisasi pasar terbesar di Bursa Efek Indonesia, menjadikannya saham \"blue chip\" primadona bagi investor lokal maupun asing. Keunggulan utamanya terletak pada biaya dana (Cost of Fund) yang sangat rendah karena kuatnya simpanan dana murah (CASA) dari para nasabahnya.</string>
+
+    <string name="stock_bbri">BBRI</string>
+    <string name="year_bbri">1895</string>
+    <string name="desc_bbri">PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) merupakan bank milik negara tertua dan terbesar di Indonesia yang berfokus pada pembiayaan segmen Mikro, Kecil, dan Menengah (UMKM). Didirikan pada tahun 1895, BRI kini memiliki jaringan operasional terluas yang menjangkau hingga ke pelosok desa melalui Agen BRILink. Komitmen BBRI dalam mendukung ekonomi kerakyatan menjadikannya tulang punggung pembiayaan UMKM nasional. Selain itu, dengan pembentukan Holding Ultra Mikro bersama Pegadaian dan PNM, BRI semakin memperkokoh posisinya sebagai lembaga keuangan inklusif terbesar di dunia dengan catatan laba yang selalu konsisten di posisi teratas.</string>
+
+    <string name="stock_bmri">BMRI</string>
+    <string name="year_bmri">1998</string>
+    <string name="desc_bmri">PT Bank Mandiri (Persero) Tbk (BMRI) adalah bank dengan total aset terbesar di Indonesia. Berdiri sejak tahun 1998 sebagai hasil restrukturisasi perbankan pasca krisis, Bank Mandiri kini menjadi pemain utama di segmen perbankan korporasi dan komersial. Transformasi digital yang agresif melalui Super App \"Livin\' by Mandiri\" untuk nasabah ritel dan \"Kopra by Mandiri\" untuk nasabah wholesale telah membawa bank ini ke tingkat efisiensi yang luar biasa. BMRI terus berekspansi dalam mengintegrasikan berbagai layanan keuangan ke dalam ekosistem bisnis, menjadikannya salah satu saham dengan prospek pertumbuhan yang sangat solid di bursa.</string>
+
+    <string name="stock_bbni">BBNI</string>
+    <string name="year_bbni">1946</string>
+    <string name="desc_bbni">PT Bank Negara Indonesia (Persero) Tbk (BBNI) adalah bank BUMN pertama yang didirikan setelah kemerdekaan Indonesia pada tahun 1946. BBNI memiliki keunggulan kompetitif sebagai bank nasional dengan jaringan internasional terluas, memiliki kantor cabang di berbagai pusat keuangan dunia seperti New York, London, Tokyo, dan Singapura. BNI fokus pada layanan perbankan korporasi, konsumer, serta memfasilitasi diaspora Indonesia dan aktivitas ekspor-impor. Melalui aplikasi BNI Mobile Banking dan BNI Direct, BBNI terus bertransformasi menjadi lembaga keuangan digital yang tangguh, menyasar segmen milenial dan institusi-institusi besar.</string>
+
+    <string name="stock_tlkm">TLKM</string>
+    <string name="year_tlkm">1965</string>
+    <string name="desc_tlkm">PT Telkom Indonesia (Persero) Tbk (TLKM) adalah perusahaan informasi dan komunikasi serta penyedia jasa dan jaringan telekomunikasi secara lengkap dan terbesar di Indonesia. Telkomsel, anak usahanya, menguasai pangsa pasar layanan seluler terbesar di tanah air. Telkom tidak hanya berfokus pada layanan konektivitas (telepon dan internet), tetapi juga telah bertransformasi menjadi perusahaan telekomunikasi digital terdepan (Digital Telco). TLKM kini gencar berinvestasi dalam infrastruktur digital masa depan, termasuk perluasan jaringan fiber optik, pembangunan Data Center berskala global, komputasi awan (Cloud), hingga platform digital untuk segmen B2B dan B2C.</string>
+</resources>
